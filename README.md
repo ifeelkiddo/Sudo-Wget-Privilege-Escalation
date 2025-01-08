@@ -3,7 +3,8 @@
 The "sudo wget" command may be vulnerable to privilege escalation (PrivEsc).
 
 ```Investigation
-sudo -l```
+sudo -l
+```
 
 (root) NOPASSWD: /usr/bin/wget
 If we can execute "wget" as root, we may be able to escalate privileges.
