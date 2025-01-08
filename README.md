@@ -1,4 +1,4 @@
-# Sudo Wget Privilege Escalation#
+# Sudo Wget Privilege Escalation
 
 The "sudo wget" command may be vulnerable to privilege escalation (PrivEsc).
 
