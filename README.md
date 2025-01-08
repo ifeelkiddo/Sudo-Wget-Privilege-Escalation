@@ -2,6 +2,7 @@
 
 ##### Example:
 ```markdown 
+bmw gt 320d 
 ```
 
 The "sudo wget" command may be vulnerable to privilege escalation (PrivEsc).
